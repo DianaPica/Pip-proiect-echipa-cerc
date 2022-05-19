@@ -32,7 +32,7 @@ public class Mapa  extends MapView{
 		});
 		//frame.set(this,BorderLayout.CENTER);
 		frame.setSize(700,500);
-		frame.setVisible(true);
+		
 		
 		
 			
